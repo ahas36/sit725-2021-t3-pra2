@@ -1,0 +1,28 @@
+{
+  "name": "sit725-2021-t3-pra2",
+  "version": "1.0.0",
+  "description": "express basic app",
+  "main": "server.js",
+  "scripts": {
+      "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahas36/sit725-2021-t3-pra2.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Ali Hassani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahas36/sit725-2021-t3-pra2/issues"
+  },
+  "homepage": "https://github.com/ahas36/sit725-2021-t3-pra2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
